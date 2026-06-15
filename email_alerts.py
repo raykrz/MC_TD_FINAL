@@ -2,7 +2,7 @@
 """
 Created on Mon Jun 15 19:19:53 2026
 
-@author: hadil
+@author: 
 """
 
 import smtplib
