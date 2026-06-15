@@ -51,7 +51,7 @@ def envoyer_alerte_email_reelle(subject, body):
 
 def verifier_csv_et_notifier(csv_path="donnees_consolidees.csv"):
     
-    print("\n🔍 Étape 7 : Analyse du catalogue de vulnérabilités pour le client...")
+    print("\n Analyse du catalogue de vulnérabilités pour le client...")
     
     # Lecture de votre fichier consolidé
     df = pd.read_csv(csv_path)
